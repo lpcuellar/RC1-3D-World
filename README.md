@@ -21,4 +21,4 @@ En la ventana del juego, debe ser visible el mapa del nivel y el mundo 3D.
 ## Mapa
 ![pygame1](https://user-images.githubusercontent.com/43117675/96385507-9da82e00-1151-11eb-8e97-06f430ed7608.png)
 
-Tenía la intención de hacer un circuito de carreras, pero no pude poner el suelo de diferente color sin que contrara como una pared.
+Tenía la intención de hacer un circuito de carreras, pero no pude poner el suelo de diferente color sin que contrara como una pared entonces lo modifiqué para que quedara como un nivel/mapa.
