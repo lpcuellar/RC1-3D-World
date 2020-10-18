@@ -15,9 +15,6 @@ Para obtener la nota completa de ésta tarea deben entregar lo siguiente:
 
 En la ventana del juego, debe ser visible el mapa del nivel y el mundo 3D.
 
-## Inspiración para el mapa
-![mK-track](https://user-images.githubusercontent.com/43117675/96385502-92550280-1151-11eb-888f-1aa612cfb4b4.png)
-
 ## Mapa
 ![pygame1](https://user-images.githubusercontent.com/43117675/96385507-9da82e00-1151-11eb-8e97-06f430ed7608.png)
 
